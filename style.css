@@ -103,14 +103,3 @@ footer {
   font-size: 0.9rem;
   color: #6b8f71;
 }
-✅ How to use it
-Save this as style.css
-
-Make sure your HTML has this in the <head>:
-
-<link rel="stylesheet" href="style.css">
-Wrap your content in a container:
-
-<div class="container">
-  <!-- your content -->
-</div>
